@@ -41,4 +41,4 @@ The script outputs the accuracy of the model after training and testing. You can
 Thanks to the creators of the RAVDESS dataset for providing publicly accessible, high-quality emotional speech audio data.
 
 ## Contact
-For any questions, feel free to contact Vedant at vedantlotia007@gmail.com or raise an issue on this GitHub repository.
+For any questions, feel free to contact at vedantlotia007@gmail.com or raise an issue on this GitHub repository.
